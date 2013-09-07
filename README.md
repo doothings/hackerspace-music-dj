@@ -1,5 +1,4 @@
-![Headphones](headphone-icon.png)
-<img src="headphone-icon.png" alt="Headphones" style="width: 200px;height: 200px"/>
+<img src="headphone-icon.png" alt="Headphones" style="width: 60px;height: 60px"/>
 Community Music Player
 -------------------------------------------------------------------------------
 
