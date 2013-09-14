@@ -4,7 +4,8 @@ Community Music Player
 
 Play your music on the hackerspace speakers.
 
-* [Raspberry Pi](http://raspberrypi.org/) acts as a media server connected to the speakers.
-* Transfer your music to the Pi and check out the playlist using your phone.
+* Build on top of [Raspyfi](http://www.raspyfi.com/) flavor of Raspbian
+* Upload music from any device.
+* Add FM/AM functionality
 
 WIP: To be implemented at doothings.in hackerspace 
